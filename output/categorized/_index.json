@@ -1,0 +1,84 @@
+{
+  "source_file": "checkpoint_NephliumDark.json",
+  "export_date": "checkpoint_dump",
+  "total_posts": 1792,
+  "total_categorized": 1792,
+  "last_updated": "checkpoint_dump",
+  "categories": {
+    "Other / Miscellaneous": {
+      "file": "Other_Miscellaneous.json",
+      "count": 714,
+      "description": "Miscellaneous items"
+    },
+    "AI & Technology": {
+      "file": "AI_Technology.json",
+      "count": 443,
+      "description": "AI tools, coding, programming, and technology"
+    },
+    "Skin & Face": {
+      "file": "Skin_Face.json",
+      "count": 122,
+      "description": "Skincare, acne treatment, and facial care"
+    },
+    "Fitness & Exercise": {
+      "file": "Fitness_Exercise.json",
+      "count": 121,
+      "description": "Workouts, gym routines, muscle building, and exercise"
+    },
+    "Diet & Nutrition": {
+      "file": "Diet_Nutrition.json",
+      "count": 63,
+      "description": "Food choices, diets, meal plans, and nutritional tips"
+    },
+    "Finance & Investing": {
+      "file": "Finance_Investing.json",
+      "count": 61,
+      "description": "Personal finance, investing, crypto, and wealth building"
+    },
+    "Self-Improvement & Productivity": {
+      "file": "Self-Improvement_Productivity.json",
+      "count": 52,
+      "description": "Personal development, habits, productivity, and life optimization"
+    },
+    "Entertainment & Media": {
+      "file": "Entertainment_Media.json",
+      "count": 50,
+      "description": "Movies, TV shows, music, and entertainment"
+    },
+    "Hair": {
+      "file": "Hair.json",
+      "count": 43,
+      "description": "Hair loss prevention, regrowth, and hair care"
+    },
+    "Supplements & Vitamins": {
+      "file": "Supplements_Vitamins.json",
+      "count": 43,
+      "description": "Vitamins, minerals, herbs, and nutritional supplements"
+    },
+    "Masculinity & Mindset": {
+      "file": "Masculinity_Mindset.json",
+      "count": 36,
+      "description": "Masculine self-improvement, discipline, and mindset"
+    },
+    "Dating & Relationships": {
+      "file": "Dating_Relationships.json",
+      "count": 24,
+      "description": "Dating advice, relationship tips, and attraction"
+    },
+    "Oral Care & Hygiene": {
+      "file": "Oral_Care_Hygiene.json",
+      "count": 12,
+      "description": "Dental care, oral hygiene, and grooming"
+    },
+    "Male Health & Testosterone": {
+      "file": "Male_Health_Testosterone.json",
+      "count": 5,
+      "description": "Testosterone optimization, sexual health, and male physiology"
+    },
+    "Longevity & Anti-Aging": {
+      "file": "Longevity_Anti-Aging.json",
+      "count": 3,
+      "description": "Longevity science, anti-aging treatments, and youth preservation"
+    }
+  }
+}

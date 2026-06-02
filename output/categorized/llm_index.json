@@ -1,0 +1,84 @@
+{
+  "source_file": "checkpoint_NephliumDark.json",
+  "export_date": "20260601_043534",
+  "method": "llm_gpt4o_mini",
+  "total_posts": 1792,
+  "total_categorized": 1792,
+  "categories": {
+    "Other / Miscellaneous": {
+      "file": "llm_Other_Miscellaneous.json",
+      "count": 1792,
+      "description": ""
+    },
+    "Hair": {
+      "file": "llm_Hair.json",
+      "count": 0,
+      "description": "Hair loss prevention, regrowth treatments, haircare products, styling"
+    },
+    "Skin & Face": {
+      "file": "llm_Skin_Face.json",
+      "count": 0,
+      "description": "Skincare routine, acne treatment, facial products, anti-aging skin"
+    },
+    "Supplements & Vitamins": {
+      "file": "llm_Supplements_Vitamins.json",
+      "count": 0,
+      "description": "Dietary supplements, vitamins, minerals, protein powders, nootropics"
+    },
+    "Fitness & Exercise": {
+      "file": "llm_Fitness_Exercise.json",
+      "count": 0,
+      "description": "Workouts, gym routines, muscle building, cardio, exercise tips"
+    },
+    "Diet & Nutrition": {
+      "file": "llm_Diet_Nutrition.json",
+      "count": 0,
+      "description": "Food choices, meal plans, recipes, diets, nutritional tips"
+    },
+    "AI & Technology": {
+      "file": "llm_AI_Technology.json",
+      "count": 0,
+      "description": "AI tools, programming, coding, software, tech news, developer tools"
+    },
+    "Masculinity & Mindset": {
+      "file": "llm_Masculinity_Mindset.json",
+      "count": 0,
+      "description": "Discipline, motivation, self-improvement mindset, masculine energy"
+    },
+    "Male Health & Testosterone": {
+      "file": "llm_Male_Health_Testosterone.json",
+      "count": 0,
+      "description": "Testosterone optimization, TRT, sexual health, male physiology"
+    },
+    "Longevity & Anti-Aging": {
+      "file": "llm_Longevity_Anti-Aging.json",
+      "count": 0,
+      "description": "Living longer, reversing aging, longevity science, biohacking"
+    },
+    "Dating & Relationships": {
+      "file": "llm_Dating_Relationships.json",
+      "count": 0,
+      "description": "Dating advice, relationships, attraction tips, romance"
+    },
+    "Oral Care & Hygiene": {
+      "file": "llm_Oral_Care_Hygiene.json",
+      "count": 0,
+      "description": "Teeth whitening, fresh breath, dental care, grooming routines"
+    },
+    "Finance & Investing": {
+      "file": "llm_Finance_Investing.json",
+      "count": 0,
+      "description": "Money management, investing, crypto, wealth building, business"
+    },
+    "Entertainment & Media": {
+      "file": "llm_Entertainment_Media.json",
+      "count": 0,
+      "description": "Movies, TV shows, music, gaming, entertainment news"
+    },
+    "Self-Improvement & Productivity": {
+      "file": "llm_Self-Improvement_Productivity.json",
+      "count": 0,
+      "description": "Habits, routines, learning, focus, skills, productivity hacks"
+    }
+  }
+}

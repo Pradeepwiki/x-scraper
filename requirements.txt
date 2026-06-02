@@ -1,0 +1,18 @@
+# X (Twitter) Likes Scraper - Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core scraper
+beautifulsoup4==4.12.2
+playwright==1.60.0
+playwright-stealth==2.0.3
+requests==2.31.0
+tqdm==4.66.1
+
+# Media processing (optional - needed for image/video downloading)
+easyocr
+faster-whisper
+yt-dlp
+
+# Utilities
+Pillow==10.1.0
+openai==0.28.1

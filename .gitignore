@@ -1,0 +1,35 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python-version
+
+# Scraped data & media
+# output/
+# media/
+
+# Logs
+*.log
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Environment config
+.env
+
+# Temp / validation scripts
+validate_categories.py
